@@ -36,7 +36,5 @@ D. Electrons and Positrons\n", "C"),
 
 @app.route('/question_answer_pair', methods=['GET'])
 def get_questions():
-    return jsonify([{"question": q, "answer": a}
-                    for q, a in questions
-                    ])
+    return jsonify(question=questions)
 
