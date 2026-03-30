@@ -83,5 +83,3 @@ B.Rate = K[NO][O2]\n\nC.Rate = K[NO2] ^ 2[O2] ^ 2\n\nD.Rate = K[NO][O2] ^ 2", "B
 def get_questions():
     return jsonify(questions=questions)
 
-if __name__ == '__main__':
-    app.run(debug=True)
