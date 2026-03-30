@@ -17,7 +17,7 @@ from that at a lower temperature", "C"],
 A. Kinetic energy\nB. Heat energy\nC. Activation energy\nD. Potential energy", "C"],
 ["When 1.5 g of Calcium trioxocarbonate (IV) is added to excess dilute hydrochloric acid,\n\
 carbon (IV) oxide is given out. The entire reaction takes 15 seconds.\n\n\
-What is the rate of reaction in mole per second? [ CaCO3 = 100 ]\n\n\nA. 1.0 x 10^-1 mol/s\n\n\
+What is the rate of reaction in mole per second? [ CaCO3 = 100g/mol ]\n\n\nA. 1.0 x 10^-1 mol/s\n\n\
 B. 1.0 x 10^-2 mol/s\n\nC. 1.0 x 10^-3 mol/s\n\nD. 1.0 x 10^-4 mol/s", "C"],
 ["Chemical reactions tend to occur at a lower rate at a lower temperature Because\n\n\n\
 A. masses of the reacting particles become lower at a higher temperature\n\n\
