@@ -28,8 +28,7 @@ temperature", "C"],
 ["The decay of a radioactive material is first order reaction.\nThis means that the rate of decay \
 is proportional to\n\nA. Light exposure or intensity\nB. Pressure exerted on it\n\
 C. Number of nuclei present\nD. Temperature of the material", "C"],
-["The rate of reaction is R = k[X]^2[Y]. By what factor will the rate of the reaction\n\
-increase if the concentrations of X and Y are both doubled?\n\nA. 4 times\nB. 8 times\nC. 27 times\n\
+["The rate of reaction is R = k[X]^2[Y]. By what factor will the rate of the reaction\nincrease if the concentrations of X and Y are both doubled?\n\nA. 4 times\nB. 8 times\nC. 27 times\n\
 D. 64 times", "B"],
 ["The activation energy of a reaction is the\n\n\nA. energy given out as the reaction proceeds\n\n\
 B. Energy used up by the reaction\n\nC. Minimum energy that must be possessed by reactants to \
