@@ -14,6 +14,3 @@ def get_questions():
         "questions": questions
     })
 
-
-if __name__ == '__main__':
-    app.run(debug=True)
