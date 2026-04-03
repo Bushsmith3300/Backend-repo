@@ -6,7 +6,7 @@ app = Flask(__name__)
 CORS(app)
 
 
-@app.route("/questions", methods=["GET"])
+@app.route("/organic_questions", methods=["GET"])
 def get_questions():
     return jsonify({
         "status": "success",
