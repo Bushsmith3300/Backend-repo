@@ -2,8 +2,6 @@
 questions=[
 
   {
-   questions = [
-  {
     "id": 1,
     "question": "The rate-determining step for a reaction 2A + 3B → 3C is A + 2B → D. Therefore the overall reaction order is:",
     "option": ["A. First order", "B. Second order", "C. Third order", "D. Zero order"],
