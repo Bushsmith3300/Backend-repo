@@ -38,10 +38,10 @@ questions = [
   },
   {
     "id": 6,
-    "question": "Reactions are slower at low temperature because",
+    "question": "Reactions are slower at low temperatures because",
     "options": ["A. Mass decreases", "B. Activation energy decreases", "C. Fewer effective collisions", "D. Mechanism changes"],
     "answer": "C",
-    "explanation": "Lower temperature reduces kinetic energy, so fewer collisions exceed activation energy."
+    "explanation": "Lower temperature reduces kinetic energy of reactant molecules, so fewer collisions and effective collisions which slows the reaction."
   },
   {
     "id": 7,
