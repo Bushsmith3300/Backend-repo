@@ -1,6 +1,6 @@
 from flask import Flask, jsonify
 from flask_cors import CORS
-from chem_questions import questions
+from chem_questions2 import questions
 
 app = Flask(__name__)
 CORS(app)
