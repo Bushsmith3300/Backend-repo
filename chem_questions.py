@@ -140,9 +140,9 @@ questions = [
   {
     "id": 20,
     "question": "Which of the following is a true statement about rate of a reaction",
-    "options": ["A. Independent of vessel size", "B. Decreases with temperature", "C. Depends on concentration", "D. Increases with activation energy"],
+    "options": ["A. Independent of vessel size for gaseous phase reactions", "B. Decreases with increasing temperature", "C. Depends on concentration of reactants", "D. Increases with increasing activation energy"],
     "answer": "C",
-    "explanation": "Rate depends on concentration; higher concentration increases collisions."
+    "explanation": "Rate depends on concentration of reactant molecules; higher concentration increases collisions."
   },
   {
     "id": 21,
@@ -237,10 +237,10 @@ questions = [
   },
   {
     "id": 34,
-    "question": " Which of the statements below is correct statement about reactions",
-    "options": ["A. Less reactant reduces time", "B. More reactant reduces collisions", "C. Larger surface area increases rate", "D. Higher temperature increases time"],
+    "question": " Which of the statements below is correct statement about reaction rate",
+    "options": ["A. Less reactant molecules reduces time", "B. More reactant reduces collisions", "C. Larger surface area increases rate", "D. Higher temperature increases time"],
     "answer": "C",
-    "explanation": "Greater surface area allows more collisions, increasing rate."
+    "explanation": "Greater surface area allows more collisions as well as effective collisions, increasing rate."
   },
   {
     "id": 35,
@@ -254,7 +254,7 @@ questions = [
     "question": "Which factors will affect CaCO3(s) + HCl(aq) reaction: I. Pressure II. Concentration III. Nature IV. Temperature",
     "options": ["A. I and II", "B. II, III and IV", "C. I, II and III", "D. I, II, III and IV"],
     "answer": "B",
-    "explanation": "Pressure is not significant for solid-liquid reactions; others affect rate."
+    "explanation": "Pressure is not significant for solid-liquid phase reactions; Pressure affects rate of only gaseous phase reactions."
   },
   {
     "id": 37,
@@ -268,21 +268,21 @@ questions = [
     "question": "Reaction occurs when energy of reactants is",
     "options": ["A. Less than activation energy", "B. Greater than activation energy", "C. Greater than product energy", "D. Less than collision energy"],
     "answer": "B",
-    "explanation": "Reactants must have energy ≥ activation energy."
+    "explanation": "Reactants must have energy greater or equal to the activation energy."
   },
   {
     "id": 39,
-    "question": "Substance that changes rate without being consumed",
+    "question": "Substance that changes rate without being consumed may be a",
     "options": ["A. Precipitate", "B. Catalyst", "C. Solvent", "D. Additive"],
     "answer": "B",
-    "explanation": "Catalyst speeds up reaction without permanent change."
+    "explanation": "Catalyst speeds up reaction rate without being consumed."
   },
   {
     "id": 40,
     "question": "Catalyst added at equilibrium does NOT affect",
     "options": ["A. Heat of reaction", "B. Reverse rate", "C. Forward rate", "D. Activation energy"],
     "answer": "A",
-    "explanation": "Catalyst affects rates (forward & reverse) and lowers Ea but does not affect heat of reaction."
+    "explanation": "Catalyst affects rates of forward and reverse reactions and lowers Activation energy (Ea) but does not affect heat of reaction."
   },
   {
     "id": 41,
@@ -310,13 +310,13 @@ questions = [
     "question": "What effect will increasing surface area of reactant molecules have on reaction rate?",
     "options": ["A. Decrease rate", "B. No effect", "C. Increase rate", "D. Stops reaction"],
     "answer": "C",
-    "explanation": "Larger surface area exposes more particles for effective collisio hence increases rate."
+    "explanation": "Larger surface area exposes more particles for effective collision hence increases rate."
   },
   {
     "id": 45,
     "question": "What effect does a catalyst have on equilibrium systems",
     "options": ["A. Shifts equilibrium", "B. No net effect", "C. Stops reaction", "D. Changes products"],
     "answer": "B",
-    "explanation": "Catalyst speeds both forward and reverse reactions equally; equilibrium position unchanged."
+    "explanation": "Catalyst speeds up both forward and reverse reactions equally; equilibrium position unchanged."
   }
 ]
