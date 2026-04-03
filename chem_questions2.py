@@ -4,8 +4,8 @@ questions2=[
     "id": 1,
     "question": "What is the hydrocarbon in the equation 2CxHy + 7O2 -----> 4CO2 + 6H2O ?",
     "options": ["A. Methane", "B. Ethane", "C. Butane", "D. Ethene"],
-    "answer": "C",
-    "explanation": "Balancing the combustion equation 2C4H10 + 13O2 → 8CO2 + 10H2O shows the hydrocarbon is butane (C4H10)."
+    "answer": "B",
+    "explanation": "Balancing the combustion equation 2C2H6 + 7O2 → 4CO2 + 6H2O shows the hydrocarbon is Ethane (C2H6)."
   },
   {
     "id": 2,
