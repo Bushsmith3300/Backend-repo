@@ -67,9 +67,9 @@ questions = [
   {
     "id": 10,
     "question": "Collision theory states",
-    "options": ["A. Collisions destroy molecules", "B. All collisions work", "C. Collisions must have enough energy", "D. Harder collisions always faster"],
+    "options": ["A. Collisions destroy molecules", "B. All collisions result in chemical reactions", "C. Colliding molecules must have enough energy to bring about a reaction", "D. Weak collisions always brings about faster reaction"],
     "answer": "C",
-    "explanation": "Only collisions with sufficient energy and proper orientation lead to reaction."
+    "explanation": "Only collisions with sufficient energy and proper orientation lead to reaction (Effective Collisions)."
   },
   {
     "id": 11,
@@ -80,17 +80,20 @@ questions = [
   },
   {
     "id": 12,
-    "question": "Minimum energy to start reaction is",
+    "question": "The Minimum energy to start a reaction is",
     "options": ["A. Heat of reaction", "B. Ionization energy", "C. Activation energy", "D. Chemical energy"],
     "answer": "C",
     "explanation": "Definition of activation energy."
   },
   {
     "id": 13,
-    "question": "Overall order when A doubles → rate doubles, B doubles → rate quadruples",
+    "question": "In a reaction between reactants A and B, rate of the reaction 
+     doubles when concentration of  A doubles and the rate quadruples when concentration B doubles.
+     What is the order of the reaction?",
     "options": ["A. 5", "B. 4", "C. 3", "D. 2"],
     "answer": "C",
-    "explanation": "Order in A = 1, B = 2 → total = 3."
+    "explanation": "Order with respect to A = 1, Order with respect to B = 2.
+     Order of the reaction = 1 + 2 = 3"
   },
   {
     "id": 14,
