@@ -1,13 +1,16 @@
-from flask import Flask, jsonify, make_response
-from chem_questions2 import questions2  # <-- this is the only import you need
+from flask import Flask, jsonify
+from flask_cors import CORS
+from chem_questions import questions
 
 app = Flask(__name__)
+CORS(app)
 
-@app.route('/questions')
+
+@app.route("/questions", methods=["GET"])
 def get_questions():
-    response = make_response(jsonify(questions2))
-    response.headers['Cache-Control'] = 'no-store, no-cache, must-revalidate'
-    response.headers = 'no-cache'
-    response.headers = '0'
-    return response
+    return jsonify({
+        "status": "success",
+        "total": len(questions),
+        "questions": questions
+    })
 
