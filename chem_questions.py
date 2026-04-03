@@ -122,28 +122,28 @@ questions = [
   },
   {
     "id": 18,
-    "question": "Rate of a second order reaction equals rate constant when",
-    "options": ["A. Reaction is homogeneous", "B. Temperature changes", "C. Concentration doubled", "D. Concentration is 1 mol/dm³"],
+    "question": "The rate of a second order reaction equals rate constant when",
+    "options": ["A. Reaction is homogeneous", "B. Temperature changes", "C. Concentrations of reactants are doubled", "D. Concentrations of reactants are 1 mol/dm³ each"],
     "answer": "D",
     "explanation": "For second order: Rate = k[A]^2. If [A]=1, then Rate = k."
   },
   {
     "id": 19,
-    "question": "True statement about reaction rates",
+    "question": "Which is a true statement about reaction rates",
     "options": ["A. Rate varies with temperature", "B. Rate increases as reaction proceeds", "C. Catalyst affects forward only", "D. Na2CO3 + HCl is reversible"],
     "answer": "A",
     "explanation": "Temperature affects kinetic energy and thus reaction rate."
   },
   {
     "id": 20,
-    "question": "True statement about rate",
+    "question": "Which of the following is a true statement about rate of a reaction",
     "options": ["A. Independent of vessel size", "B. Decreases with temperature", "C. Depends on concentration", "D. Increases with activation energy"],
     "answer": "C",
     "explanation": "Rate depends on concentration; higher concentration increases collisions."
   },
   {
     "id": 21,
-    "question": "R = K[A]^2[B]^2[C], doubling all concentrations increases rate by",
+    "question": "The rate law for a reaction is R = K[A]^2[B]^2[C], doubling all concentrations increases rate by",
     "options": ["A. 4", "B. 8", "C. 16", "D. 32"],
     "answer": "D",
     "explanation": "Rate ∝ 2^2 × 2^2 × 2 = 4 × 4 × 2 = 32."
@@ -151,35 +151,35 @@ questions = [
   {
     "id": 22,
     "question": "Catalyst works by",
-    "options": ["A. Lowering activation energy", "B. Changing enthalpy", "C. Changing collision frequency", "D. Always providing surface"],
+    "options": ["A. Lowering activation energy", "B. Changing enthalpy", "C. Changing collision frequency", "D. Always providing larger surface"],
     "answer": "A",
     "explanation": "Catalysts provide an alternative pathway with lower activation energy."
   },
   {
     "id": 23,
-    "question": "2NO + O2 → 2NO2 first order each reactant. Rate law is",
+    "question": "2NO + O2 → 2NO2 first order with respect to each reactant. Rate law is",
     "options": ["A. k[NO]^2[O2]", "B. k[NO][O2]", "C. k[NO2]^2[O2]^2", "D. k[NO][O2]^2"],
     "answer": "B",
     "explanation": "First order in each reactant → Rate = k[NO][O2]."
   },
   {
     "id": 24,
-    "question": "Characteristic property of catalyst",
-    "options": ["A. Increase collision rate", "B. Lower heat of reaction", "C. Large surface area", "D. Alternative pathway"],
+    "question": "One characteristic property of a catalyst is that",
+    "options": ["A. It reduces collision rate", "B. It has Lower heat of reaction", "C. It has Large surface area", "D. Provides alternative pathway"],
     "answer": "D",
     "explanation": "Key feature: provides alternative pathway with lower activation energy."
   },
   {
     "id": 25,
-    "question": "Zn + HCl reaction increases by",
+    "question": "The rate of Zn + HCl reaction increases by",
     "options": ["A. Using lumps", "B. Diluting acid", "C. Removing Zn", "D. Warming mixture"],
     "answer": "D",
     "explanation": "Increasing temperature increases reaction rate."
   },
   {
     "id": 26,
-    "question": "Slowest CaSO3 + HCl reaction",
-    "options": ["A. Lumps + 1.0 M", "B. Lumps + 0.1 M", "C. Powder + 1.0 M", "D. Powder + 0.1 M"],
+    "question": "Which will cause the slowest reaction rate between CaSO3 + HCl",
+    "options": ["A. Lumps + 1.0 M concentration", "B. Lumps + 0.1 M concentration", "C. Powder + 1.0 M concentration", "D. Powder + 0.1 M concentration"],
     "answer": "B",
     "explanation": "Lowest concentration + smallest surface area (lumps) gives slowest rate."
   },
@@ -192,10 +192,10 @@ questions = [
   },
   {
     "id": 28,
-    "question": "Catalyst increases rate by",
-    "options": ["A. Increasing surface area", "B. Lowering temperature", "C. Decreasing activation energy", "D. Decreasing surface area"],
+    "question": "Catalyst lowers activation energy by",
+    "options": ["A. Increasing surface area", "B. Lowering temperature", "C. weakening the bonds within reactant molecules", "D. Decreasing surface area"],
     "answer": "C",
-    "explanation": "Catalyst reduces activation energy barrier."
+    "explanation": "Catalyst reduces activation energy barrier by attracting reactant molecules to its surface and weakening their bonds."
   },
   {
     "id": 29,
@@ -206,21 +206,21 @@ questions = [
   },
   {
     "id": 30,
-    "question": "Condition that increases reaction rate",
+    "question": "Which of the following conditions increases reaction rate",
     "options": ["A. High temp + low surface area", "B. High temp + high concentration", "C. Low temp + high concentration", "D. Low temp + high surface area"],
     "answer": "B",
     "explanation": "Higher temperature and concentration both increase collision frequency and energy."
   },
   {
     "id": 31,
-    "question": "The rate determining step A + 2B ----> 2C + D gives rate equation",
+    "question": "The rate determining step for a reaction is A + 2B ----> 2C + D. Give the rate equation",
     "options": ["A. R = K[A][2B]^2", "B. R = K[A][B]^2", "C. R = K[A][B]^2[C]^2[D]^2", "D. R = K[A][2B]^2[2C]^2[2D]^2"],
     "answer": "B",
     "explanation": "Rate law depends on reactants in the rate-determining step: A + 2B → rate = k[A][B]^2."
   },
   {
     "id": 32,
-    "question": "R = k[X]^2[Y], doubling X and Y increases rate by",
+    "question": " For a rate law; R = k[X]^2[Y], doubling X and Y increases rate by",
     "options": ["A. 16", "B. 8", "C. 4", "D. 2"],
     "answer": "B",
     "explanation": "Rate ∝ (2^2)(2) = 4 × 2 = 8."
@@ -234,35 +234,35 @@ questions = [
   },
   {
     "id": 34,
-    "question": "Correct statement about reactions",
+    "question": " Which of the statements below is correct statement about reactions",
     "options": ["A. Less reactant reduces time", "B. More reactant reduces collisions", "C. Larger surface area increases rate", "D. Higher temperature increases time"],
     "answer": "C",
     "explanation": "Greater surface area allows more collisions, increasing rate."
   },
   {
     "id": 35,
-    "question": "Factor NOT affecting reaction rate",
+    "question": " Which one of the Factors below does NOT affecting reaction rate",
     "options": ["A. Concentration", "B. Melting point", "C. Physical state", "D. Temperature"],
     "answer": "B",
     "explanation": "Melting point does not directly influence reaction rate."
   },
   {
     "id": 36,
-    "question": "Factors affecting CaCO3 + HCl reaction: I Pressure II Concentration III Nature IV Temperature",
+    "question": "Which factors will affect CaCO3(s) + HCl(aq) reaction: I. Pressure II. Concentration III. Nature IV. Temperature",
     "options": ["A. I and II", "B. II, III and IV", "C. I, II and III", "D. I, II, III and IV"],
     "answer": "B",
     "explanation": "Pressure is not significant for solid-liquid reactions; others affect rate."
   },
   {
     "id": 37,
-    "question": "Catalyst affects",
+    "question": "Which of the following is affected by catalyst",
     "options": ["A. Activation energy", "B. Free energy", "C. Equilibrium position", "D. Enthalpy change"],
     "answer": "A",
     "explanation": "Catalyst lowers activation energy only."
   },
   {
     "id": 38,
-    "question": "Reaction occurs when energy is",
+    "question": "Reaction occurs when energy of reactants is",
     "options": ["A. Less than activation energy", "B. Greater than activation energy", "C. Greater than product energy", "D. Less than collision energy"],
     "answer": "B",
     "explanation": "Reactants must have energy ≥ activation energy."
@@ -283,36 +283,36 @@ questions = [
   },
   {
     "id": 41,
-    "question": "Slowest CaCO3 reaction condition",
+    "question": "Which will give slowest CaCO3 reaction condition",
     "options": ["A. Powder at 40°C", "B. Powder at 20°C", "C. Chips at 40°C", "D. Chips at 20°C"],
     "answer": "D",
     "explanation": "Lowest temperature and smallest surface area (chips) give slowest rate."
   },
   {
     "id": 42,
-    "question": "Catalyst property",
-    "options": ["A. Changes equilibrium", "B. Changes enthalpy", "C. Speeds reaction", "D. Consumed"],
+    "question": " One property of Catalysts that, it",
+    "options": ["A. Changes equilibrium", "B. Changes enthalpy", "C. Speeds reaction rate", "D. Consumed"],
     "answer": "C",
     "explanation": "Catalysts increase rate but are not consumed."
   },
   {
     "id": 43,
-    "question": "Effect of increasing concentration",
+    "question": "Increasing concentration of reactant molecules will",
     "options": ["A. Decrease rate", "B. Increase collisions", "C. Lower activation energy", "D. Stop reaction"],
     "answer": "B",
-    "explanation": "Higher concentration increases collision frequency."
+    "explanation": "Higher concentration increases collision frequency hence increases rate."
   },
   {
     "id": 44,
-    "question": "Effect of increasing surface area",
+    "question": "What effect will increasing surface area of reactant molecules have on reaction rate?",
     "options": ["A. Decrease rate", "B. No effect", "C. Increase rate", "D. Stops reaction"],
     "answer": "C",
-    "explanation": "More surface area exposes more particles for collision."
+    "explanation": "More surface area exposes more particles for effective hence increases rate."
   },
   {
     "id": 45,
-    "question": "Effect of catalyst on equilibrium",
-    "options": ["A. Shifts equilibrium", "B. No effect", "C. Stops reaction", "D. Changes products"],
+    "question": "What effect does a catalyst have on equilibrium systems",
+    "options": ["A. Shifts equilibrium", "B. No net effect", "C. Stops reaction", "D. Changes products"],
     "answer": "B",
     "explanation": "Catalyst speeds both forward and reverse reactions equally; equilibrium position unchanged."
   }
