@@ -290,8 +290,8 @@ questions = [
   },
   {
     "id": 42,
-    "question": " One property of Catalysts that, it",
-    "options": ["A. Changes equilibrium", "B. Changes enthalpy", "C. Speeds reaction rate", "D. Consumed"],
+    "question": " One property of a Catalyst is that, it",
+    "options": ["A. changes equilibrium position", "B. changes enthalpy of reaction", "C. speeds reaction rate", "D. is consumed"],
     "answer": "C",
     "explanation": "Catalysts increase rate but are not consumed."
   },
