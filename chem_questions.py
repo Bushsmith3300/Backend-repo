@@ -290,7 +290,7 @@ questions = [
   },
   {
     "id": 42,
-    "question": " One property of a Catalyst is that, it",
+    "question": " One property of a catalyst is that it",
     "options": ["A. changes equilibrium position", "B. changes enthalpy of reaction", "C. speeds reaction rate", "D. is consumed"],
     "answer": "C",
     "explanation": "Catalysts increase rate but are not consumed."
@@ -307,7 +307,7 @@ questions = [
     "question": "What effect will increasing surface area of reactant molecules have on reaction rate?",
     "options": ["A. Decrease rate", "B. No effect", "C. Increase rate", "D. Stops reaction"],
     "answer": "C",
-    "explanation": "More surface area exposes more particles for effective hence increases rate."
+    "explanation": "Larger surface area exposes more particles for effective hence increases rate."
   },
   {
     "id": 45,
