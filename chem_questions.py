@@ -118,7 +118,7 @@ questions = [
   },
   {
     "id": 17,
-    "question": "Which parameters affect reaction rate? I. State II. Temperature III. Catalyst",
+    "question": "Which parameters affect reaction rate?\nI. State\nII. Temperature\nIII. Catalyst",
     "options": ["A. I only", "B. I and II", "C. I, II and III", "D. I and III"],
     "answer": "C",
     "explanation": "All listed factors affect reaction rate: physical state, temperature, and catalysts."
