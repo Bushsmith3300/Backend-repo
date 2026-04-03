@@ -66,7 +66,7 @@ questions = [
   },
   {
     "id": 10,
-    "question": "Collision theory states",
+    "question": "Collision theory states that...",
     "options": ["A. Collisions destroy molecules", "B. All collisions result in chemical reactions", "C. Colliding molecules must have enough energy to bring about a reaction", "D. Weak collisions always brings about faster reaction"],
     "answer": "C",
     "explanation": "Only collisions with sufficient energy and proper orientation lead to reaction (Effective Collisions)."
