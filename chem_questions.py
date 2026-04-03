@@ -74,7 +74,7 @@ questions = [
   {
     "id": 11,
     "question": "Catalyst for Haber process is likely",
-    "optioCs": ["A. Alkali metal", "B. Alkaline earth metal", "C. Non-metal", "D. Transition metal"],
+    "options": ["A. Alkali metal", "B. Alkaline earth metal", "C. Non-metal", "D. Transition metal"],
     "answer": "D",
     "explanation": "Iron (a transition metal) is used as catalyst in Haber process."
   },
