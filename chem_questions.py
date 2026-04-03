@@ -81,7 +81,7 @@ questions = [
   {
     "id": 12,
     "question": "Minimum energy to start reaction is",
-    "option": ["A. Heat of reaction", "B. Ionization energy", "C. Activation energy", "D. Chemical energy"],
+    "options": ["A. Heat of reaction", "B. Ionization energy", "C. Activation energy", "D. Chemical energy"],
     "answer": "C",
     "explanation": "Definition of activation energy."
   },
@@ -101,10 +101,10 @@ questions = [
   },
   {
     "id": 15,
-    "question": "Fastest CaCO3 + HCl reaction",
-   doublings": ["A. 1.0 M + lumps", "B. 0.1 M + lumps", "C. 1.0 M + powder", "D. 0.1 M + powder"],
+    "question": "Which of the following conditions  will cause fastest reaction between CaCO3 and HCl?",
+   "options": ["A. 1.0 M + lumps", "B. 0.1 M + lumps", "C. 1.0 M + powder", "D. 0.1 M + powder"],
     "answer": "C",
-    "explanation": "Higher concentration + larger surface area gives fastest rate."
+    "explanation": "Highest concentration + largest surface area gives fastest rate."
   },
   {
     "id": 16,
