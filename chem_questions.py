@@ -307,7 +307,7 @@ questions = [
     "question": "What effect will increasing surface area of reactant molecules have on reaction rate?",
     "options": ["A. Decrease rate", "B. No effect", "C. Increase rate", "D. Stops reaction"],
     "answer": "C",
-    "explanation": "Larger surface area exposes more particles for effective hence increases rate."
+    "explanation": "Larger surface area exposes more particles for effective collisio hence increases rate."
   },
   {
     "id": 45,
