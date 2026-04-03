@@ -1,6 +1,4 @@
-
-
-  questions = [
+questions = [
   {
     "id": 1,
     "question": "The rate determining step for a reaction 2A + 3B ---> 3C is A + 2B ---> D. Therefore the reaction is of the",
