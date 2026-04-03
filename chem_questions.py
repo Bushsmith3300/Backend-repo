@@ -52,7 +52,7 @@ questions = [
   },
   {
     "id": 8,
-    "question": "Rate law R = k[X]^2[Y], doubling both increases rate by",
+    "question": "Rate law R = k[X]^2 [Y], doubling both increases rate by",
     "options": ["A. 4", "B. 8", "C. 27", "D. 64"],
     "answer": "B",
     "explanation": "Rate ∝ (2^2)(2) = 4 × 2 = 8."
@@ -126,7 +126,7 @@ questions = [
   {
     "id": 18,
     "question": "The rate of a second order reaction equals rate constant when",
-    "options": ["A. Reaction is homogeneous", "B. Temperature changes", "C. Concentrations of reactants are doubled", "D. Concentrations of reactants are 1 mol/dm³ each"],
+    "options": ["A. Reaction is homogeneous", "B. Temperature changes", "C. Concentrations of reactants are doubled", "D. Concentrations of reactant(s) is/are 1 mol/dm³ each"],
     "answer": "D",
     "explanation": "For second order: Rate = k[A]^2. If [A]=1, then Rate = k."
   },
@@ -146,7 +146,7 @@ questions = [
   },
   {
     "id": 21,
-    "question": "The rate law for a reaction is R = K[A]^2[B]^2[C], doubling all concentrations increases rate by",
+    "question": "The rate law for a reaction is R = K[A]^2 [B]^2 [C], doubling all concentrations increases rate by",
     "options": ["A. 4", "B. 8", "C. 16", "D. 32"],
     "answer": "D",
     "explanation": "Rate ∝ 2^2 × 2^2 × 2 = 4 × 4 × 2 = 32."
@@ -161,7 +161,7 @@ questions = [
   {
     "id": 23,
     "question": "2NO + O2 → 2NO2 first order with respect to each reactant. Rate law is",
-    "options": ["A. k[NO]^2[O2]", "B. k[NO][O2]", "C. k[NO2]^2[O2]^2", "D. k[NO][O2]^2"],
+    "options": ["A. k[NO]^2 [O2]", "B. k[NO][O2]", "C. k[NO2]^2 [O2]^2", "D. k[NO][O2]^2"],
     "answer": "B",
     "explanation": "First order in each reactant → Rate = k[NO][O2]."
   },
@@ -217,7 +217,7 @@ questions = [
   {
     "id": 31,
     "question": "The rate determining step for a reaction is A + 2B ----> 2C + D. Give the rate equation",
-    "options": ["A. R = K[A][2B]^2", "B. R = K[A][B]^2", "C. R = K[A][B]^2[C]^2[D]^2", "D. R = K[A][2B]^2[2C]^2[2D]^2"],
+    "options": ["A. R = K [A] [2B]^2", "B. R = K [A] [B]^2", "C. R = K [A] [B]^2 [C]^2 [D]^2", "D. R = K [A] [2B]^2 [2C]^2 [2D]^2"],
     "answer": "B",
     "explanation": "Rate law depends on reactants in the rate-determining step: A + 2B → rate = k[A][B]^2."
   },
