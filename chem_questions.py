@@ -102,7 +102,7 @@ questions = [
   {
     "id": 15,
     "question": "Which of the following conditions  will cause fastest reaction between CaCO3 and HCl?",
-   "options": ["A. 1.0 M + lumps", "B. 0.1 M + lumps", "C. 1.0 M + powder", "D. 0.1 M + powder"],
+    "options": ["A. 1.0 M + lumps", "B. 0.1 M + lumps", "C. 1.0 M + powder", "D. 0.1 M + powder"],
     "answer": "C",
     "explanation": "Highest concentration + largest surface area gives fastest rate."
   },
