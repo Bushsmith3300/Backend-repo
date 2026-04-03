@@ -175,7 +175,7 @@ questions = [
   {
     "id": 25,
     "question": "The rate of Zn + HCl reaction increases by",
-    "options": ["A. Using lumps", "B. Diluting acid", "C. Removing Zn", "D. Warming mixture"],
+    "options": ["A. Using lumps of Zn ", "B. Diluting the HCl", "C. Removing some of the Zn", "D. Warming mixture"],
     "answer": "D",
     "explanation": "Increasing temperature increases reaction rate."
   },
