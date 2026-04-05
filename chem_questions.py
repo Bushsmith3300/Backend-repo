@@ -87,13 +87,10 @@ questions = [
   },
   {
     "id": 13,
-    "question": "In a reaction between reactants A and B, rate of the reaction 
-     doubles when concentration of  A doubles and the rate quadruples when concentration B doubles.
-     What is the order of the reaction?",
+    "question": "In a reaction between reactants A and B, rate of the reaction doubles when concentration of  A doubles and the rate quadruples when concentration B doubles. What is the order of the reaction?",
     "options": ["A. 5", "B. 4", "C. 3", "D. 2"],
     "answer": "C",
-    "explanation": "Order with respect to A = 1, Order with respect to B = 2.
-     Order of the reaction = 1 + 2 = 3"
+    "explanation": "Order with respect to A = 1, Order with respect to B = 2. Order of the reaction = 1 + 2 = 3"
   },
   {
     "id": 14,
