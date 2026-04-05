@@ -248,7 +248,7 @@ questions = [
   },
   {
     "id": 36,
-    "question": "Which factors will affect CaCO3(s) + HCl(aq) reaction: I. Pressure II. Concentration III. Nature IV. Temperature",
+    "question": "Which factors will affect CaCO3(s) + HCl(aq) reaction:\nI. Pressure\nII. Concentration\nIII. Nature\nIV. Temperature",
     "options": ["A. I and II", "B. II, III and IV", "C. I, II and III", "D. I, II, III and IV"],
     "answer": "B",
     "explanation": "Pressure is not significant for solid-liquid phase reactions; Pressure affects rate of only gaseous phase reactions."
