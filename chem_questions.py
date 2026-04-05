@@ -241,7 +241,7 @@ questions = [
   },
   {
     "id": 35,
-    "question": " Which one of the Factors below does NOT affecting reaction rate",
+    "question": " Which one of the Factors below does NOT affect reaction rate",
     "options": ["A. Concentration", "B. Melting point", "C. Physical state", "D. Temperature"],
     "answer": "B",
     "explanation": "Melting point does not directly influence reaction rate."
