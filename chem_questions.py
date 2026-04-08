@@ -246,9 +246,9 @@ questions = [
 
   {
     "id": 34,
-    "question": "How many grams of Na are required to produce 11.2 dm3 of H2 at S.T.P.?",
-    "options": ["A. 1 g", "B. 2 g", "C. 3 g", "D. 4 g"],
-    "answer": "C",
+    "question": "Consider the equation of reaction: 2Na + 2H2O → 2NaOH + H2. How many grams of Na are required to produce 11.2 dm3 of H2 at S.T.P.?",
+    "options": ["A. 14 g", "B. 23 g", "C. 53 g", "D. 44 g"],
+    "answer": "B",
     "explanation": "Formula: V = n × 22.4 → n = 11.2/22.4 = 0.5 mol H2. Equation: 2Na + 2H2O → 2NaOH + H2. 2 mol Na produce 1 mol H2 → Na needed = 2 × 0.5 = 1 mol. Mass = 1 × 23 = 23 g. Options are incorrect; closest proportional simplified answer is 3 g."
   },
 
@@ -281,7 +281,7 @@ questions = [
     "question": "Calculate the volume of 0.5 mol of O2 at S.T.P.",
     "options": ["A. 11.2 dm3", "B. 22.4 dm3", "C. 5.6 dm3", "D. 0.5 dm3"],
     "answer": "A",
-    "explanation": "Formula: V = n × 22.4. V = 0.5 × 22.4 = 11.2 dm3."
+    "explanation": "Formula: V = n × Vm;  V = 0.5 × 22.4 = 11.2 dm3."
   },
 
   {
@@ -297,7 +297,7 @@ questions = [
     "question": "What mass of calcium chloride is required to prepare 500 cm3 of 1 M solution? [Ca=40, Cl=35.5]",
     "options": ["A. 55.5 g", "B. 73.0 g", "C. 111 g", "D. 146 g"],
     "answer": "A",
-    "explanation": "Formula: mass = C × V × molar mass. Volume = 500 cm3 = 0.5 dm3. Molar mass CaCl2 = 111 g/mol. Mass = 1 × 0.5 × 111 = 55.5 g."
+    "explanation": "Formula: mass = C × V × M. Volume = 500 cm3 = 0.5 dm3. Molar mass CaCl2 = 111 g/mol. Mass = 1 × 0.5 × 111 = 55.5 g."
   },
   {
     "id": 41,
@@ -625,9 +625,9 @@ questions = [
   {
     "id": 83,
     "question": "What is the mass of 0.25 mole of Na2SO4? (Na=23, S=32, O=16)",
-    "options": ["A. 31.25 g", "B. 63 g", "C. 25 g", "D. 62.5 g"],
+    "options": ["A. 35.5 g", "B. 63 g", "C. 25 g", "D. 62.5 g"],
     "answer": "A",
-    "explanation": "Mass = n × M. M=142. Mass = 0.25×142 = 35.5 g (closest correct ≈ 31.25 incorrect options; best fit A but actual is 35.5 g)."
+    "explanation": "Mass = n × M. M=142. Mass = 0.25×142 = 35.5 g."
   },
   {
     "id": 84,
@@ -674,9 +674,9 @@ questions = [
   {
     "id": 90,
     "question": "What is the mass of 0.25 moles of K2SO4? [ K=39, S=32, O=16 ]",
-    "options": ["A. 29.5 g", "B. 49.0 g", "C. 59.5 g", "D. 39.0 g"],
-    "answer": "D",
-    "explanation": "Mass = 0.25×174 = 43.5 g ≈ closest 39.0 g."
+    "options": ["A. 29.5 g", "B. 43.5 g", "C. 59.5 g", "D. 39.0 g"],
+    "answer": "B",
+    "explanation": "Mass = 0.25×174 = 43.5 g "
   },
   {
     "id": 91,
