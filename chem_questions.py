@@ -109,7 +109,7 @@ questions = [
   },
   {
     "id": 16,
-    "question": "How many moles of oxygen atoms are in 16 g of O2?",
+    "question": "How many moles of oxygen atoms are in 16 g of O2? [ O = 16 ]",
     "options": ["A. 0.5 mol", "B. 1 mol", "C. 0.1 mol", "D. 2 mol"],
     "answer": "B",
     "explanation": "Moles O2 = 16/32 = 0.5 mol. Each molecule has 2 O atoms → 0.5 × 2 = 1 mol."
@@ -137,7 +137,7 @@ questions = [
   },
   {
     "id": 20,
-    "question": "How many moles of hydrogen are there in 18 g of water?",
+    "question": "How many moles of hydrogen are there in 18 g of water? [H=1, O=16]",
     "options": ["A. 2 mol", "B. 1 mol", "C. 1.5 mol", "D. 0.5 mol"],
     "answer": "A",
     "explanation": "1 mol of H2O contains 2 mol of H atoms. Therefore, 18 g (1 mol) contains 2 mol of hydrogen."
@@ -582,10 +582,10 @@ questions = [
   },
   {
     "id": 77,
-    "question": "How many atoms are in 2 moles of CH4?",
-    "options": ["A. 6.02×10^24", "B. 6.02×10^23", "C. 3.01×10^24", "D. 1.806×10^24"],
-    "answer": "A",
-    "explanation": "Formula: atoms = n × NA × total atoms. = 2 × 6.02×10^23 × 5 = 6.02×10^24 atoms."
+    "question": "How many atoms are in 2 moles of CH4? [ C=12, H=1, L=6.02x 10^23 ]",
+    "options": ["A. 6.02×10^24", "B. 6.02×10^23", "C. 3.01×10^24", "D. 1.204×10^24"],
+    "answer": "D",
+    "explanation": "Formula: atoms = n × L × total atoms. = 2 × 6.02×10^23 = 1.204×10^24 atoms."
   },
   {
     "id": 78,
